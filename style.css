@@ -10,6 +10,7 @@ body{
 	position: relative;
 	margin-top: 0px;
     height: 100vh;
+	background-color:yello;
 }
 .container img {
 	display: block;
